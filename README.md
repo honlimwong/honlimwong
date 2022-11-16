@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @honlimwong
+- 👋 Hi, I’m @Wong
 - 👀 I’m interested in frontend /backend development
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on ...
